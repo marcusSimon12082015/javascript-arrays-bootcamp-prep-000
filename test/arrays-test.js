@@ -112,5 +112,5 @@ describe('arrays', () => {
       expect(removeElementFromEndOfArray([1, 2, 3])).to.eql([1, 2])
     })
   })
+  */
 })
-*/
