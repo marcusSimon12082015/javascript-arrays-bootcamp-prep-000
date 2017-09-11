@@ -15,11 +15,12 @@ function addElementToEndOfArray(array,element){
   newArray[array.length] = element
   return newArray
 }
-/*
+
 function destructivelyAddElementToEndOfArray(array,element){
     var newArray = [array, ...element]
     return newArray
 }
+/*
 function accessElementInArray(array, index){
   return array[index]
 }
